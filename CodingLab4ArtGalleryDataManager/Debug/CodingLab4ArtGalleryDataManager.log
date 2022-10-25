@@ -1,0 +1,11 @@
+﻿  main.cpp
+  Customer_Curation_Sale_Gallery.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(560,13): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\trmbe\source\repos\CodingLab4ArtGalleryDataManager\Customer_Curation_Sale_Gallery.cpp(238): message : see reference to function template instantiation 'int std::count_if<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,NS_ARTGALLERY::ArtType>(_InIt,_InIt,_Pr)' being compiled
+          with
+          [
+              _Ty=NS_ARTGALLERY::Artwork,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<NS_ARTGALLERY::Artwork>>>,
+              _Pr=NS_ARTGALLERY::ArtType
+          ]
+  Generating Code...
